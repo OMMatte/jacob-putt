@@ -17,4 +17,4 @@ Open it in a browser to play, or serve the folder with any static server.
 
 ## Hosting
 
-Served by GitHub Pages from the root of the `main` branch: https://ommatte.com/jacob-putt/
+Served by GitHub Pages from the root of the `main` branch: https://ommatte.github.io/jacob-putt/
